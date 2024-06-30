@@ -1,0 +1,20 @@
+
+/* Color page */
+*{
+	background-color:#C0C0C0;
+}
+
+/*Image center*/
+/*Title in color blue*/
+div.One{
+	text-align:center;
+	color:blue;
+}
+/*img border*/
+
+img{
+
+	border-radius: 25%;
+}
+
+
