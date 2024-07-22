@@ -1,0 +1,39 @@
+/* Color page,margin and padding */
+*{
+	background-color:#C0C0C0;
+	margin:12px;
+	padding:8;
+}
+ /*scroll*/
+body{
+
+	overflow: scroll;
+}
+
+/*Color blue*/
+body::-webkit-scrollbar{
+
+   background-color:blue;
+}
+
+/*Color greenyellow*/
+body::-webkit-scrollbar-thumb{
+
+	background-color: greenyellow;
+
+}
+
+/*Image center*/
+/*Title in color blue*/
+div.One{
+	text-align:center;
+	color:blue;
+}
+/*img border*/
+
+img{
+
+	border-radius: 25%;
+}
+
+
