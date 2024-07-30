@@ -1,5 +1,5 @@
 puts "Hello world!"
-#Declaração da variavel
+#Declaração da variável
 num=1;
 #impimir a mensagem
 puts "Número classificado"
