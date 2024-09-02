@@ -1,0 +1,46 @@
+
+/*Style margin,padding and color page*/
+
+*{
+
+   margin:0;
+   padding:0;
+   background-color: #faebd7;
+
+
+}
+
+/*Style margin and padding*/
+
+.menu__page,
+.menu__page__text,
+.menu__page__text__one{
+
+
+    margin:60px;
+    padding:7;
+    color:#ec0606;
+
+}
+
+/* Style elements*/
+
+.menu__logo__link{
+
+  display:flex;
+  gap:18px;
+  align-items:center;
+  
+
+}
+
+/* Style decoration none,color page,font-size and color*/
+
+.menu__page__link__a{
+
+    text-decoration:none;
+    background-color: #dbc4c4;
+    font-size: 17px;
+    color: #2b2929;
+}
+
