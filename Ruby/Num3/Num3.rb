@@ -13,11 +13,11 @@ subtracao=4-2;
 divisao=num/subtracao;
 
 
-puts  num
+puts  num;
 
-puts subtracao
+puts subtracao;
 
-puts divisao
+puts divisao;
 
 
 
@@ -28,7 +28,7 @@ valorp=120.00;
 valors=20.00;
 soma=120.00+20.00;
 
-puts soma
+puts soma;
 
 
 #Em uma tabela contém dois valores que são 120.00 e 20.00 reais com o resultado total de 140.00,mas o funcionário
