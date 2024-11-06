@@ -15,6 +15,8 @@ Finalização
 -Nada é impossível resolver aquele bug.
 
 
+-------------------------------------------
+
 /*Início 
 Declaração de variáveis
 Imprimir a mensagem Número secreto do loop
@@ -22,7 +24,7 @@ Duas vezes imprimir o número
 Finalização */
 
 
--------------------------------------------
+
 
 //Início
 #include <stdio.h>
