@@ -5,7 +5,7 @@ Duas vezes imprimir o número
 Finalização */
 
 //Início
-#include <stdio.h>
+#include <stdio.h> 
 
 int main()
 {
