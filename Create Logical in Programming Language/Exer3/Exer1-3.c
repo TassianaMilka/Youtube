@@ -4,7 +4,7 @@ Imprimir a mensagem Número secreto do loop
 Duas vezes imprimir o número 
 Finalização */
 
-//Início
+//Início 
 #include <stdio.h> 
 
 int main()
