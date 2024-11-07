@@ -3,7 +3,7 @@
 //Fruit Ninja== Halfbrick Studios
 //Lançado em 2010
 //Principal objetivo é cortar frutas
-
+ 
 
 
 
