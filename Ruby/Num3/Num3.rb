@@ -1,7 +1,5 @@
 
 
-
-
 # Exer
 
 #Faça um código na finalidade para impimir o número 7, uma subtração entre 4 com 2,depois realizar  a divisão do que
