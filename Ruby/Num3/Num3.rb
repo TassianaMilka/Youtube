@@ -25,7 +25,8 @@ puts divisao;
 
 soma=120.00+20.00;
 
-#
+#Imprimir o resultado da soma.
+
 puts soma;
 
 
