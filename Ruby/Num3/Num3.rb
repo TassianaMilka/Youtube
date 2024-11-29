@@ -23,11 +23,9 @@ puts divisao;
 
 #Declaração da variável
 
-
-valorp=120.00;
-valors=20.00;
 soma=120.00+20.00;
 
+#
 puts soma;
 
 
