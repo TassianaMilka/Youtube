@@ -1,0 +1,33 @@
+
+ /*Elements in Css*/
+ 
+ /*Color page #ffffff*/
+ *{
+    background-color:#ffffff;
+
+
+ }
+
+
+  /*Elements  the form */
+
+.Text{
+
+   background-color: #000000;
+   position: absolute;
+   top:100%;
+   left:50%;
+   transition:translate(-50%,-50%);
+   width:400px;
+   gap:34px;
+   border-radius:45px;
+
+
+}
+
+  /*Color title*/
+
+.text-title{
+
+    color:#ff0707;
+}
