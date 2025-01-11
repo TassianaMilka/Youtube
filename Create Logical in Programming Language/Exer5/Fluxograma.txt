@@ -1,0 +1,113 @@
+-Fluxograma
+
+Website(Site) 
+
+lucid
+
+https://lucid.app/users/login#/login
+
+//1
+
+//Começo
+#include <stdio.h>
+
+int main()
+{
+    
+  //Declaração
+    
+    int num1;
+    int num2;
+    int resultado;
+    
+    
+    //
+    printf("Informe a primeira nota\n");//Entrada de dado
+    scanf("%d",&num1);//Saída de dado
+    
+    printf("Informe a segunda nota\n");//Entrada de dado
+    scanf("%d",&num2);//Saída de dado
+    
+    //Cálculo das notas
+    resultado=num1+num2/2;
+    
+    
+    //Imprimir o resultado das notas
+    printf("O resultado %d\n",resultado);
+    
+    
+    //Validação maior o menor(aprovado ou reprovado)
+    if(resultado>=6){
+    //Imprimir a mensagem    
+    printf("\nO aluno foi aprovado");
+
+        
+    }else{
+
+    //Imprimir a mensagem    
+     printf("\nO aluno foi reprovado");
+
+        
+    }
+    
+    //Fim
+    return 0;
+}
+
+
+
+
+//2
+
+//Começo
+#include <stdio.h>
+
+int main()
+{
+    
+  
+  
+    //Imprimir a mensagem
+    
+    printf("Treinamento de Lógica para aprender Linguagem de Programação");
+   
+    
+    //Fim
+    return 0;
+}
+
+
+//3
+
+
+//Começo
+#include <stdio.h>
+
+int main()
+{
+    
+   //Declaração
+    int num=3;
+    
+    
+    
+    
+    //Validação maior o menor
+    if(num>=7){
+        
+    //Imprimir a mensagem
+    printf("\nO número %d é maior",num);
+
+        
+    }else{
+        
+    //Imprimir a mensagem
+     printf("\nO número %d é menor",num);
+
+        
+    }
+    
+    //Fim
+    return 0;
+}
+
