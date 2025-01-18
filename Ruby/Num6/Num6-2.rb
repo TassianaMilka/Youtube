@@ -1,3 +1,7 @@
+#Imprimir a mensagem
+puts "Equação";
+#Declaração de string da equação
+stringum="√4(2)+2=2x-1";
 #Imprimir a string da equação
 puts stringum;
 #Imprimir a mensagem
