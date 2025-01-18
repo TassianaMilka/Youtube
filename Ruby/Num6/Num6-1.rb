@@ -2,7 +2,7 @@
 stringnome="Nome:Milka";
 stringidade="Idade:21 anos";
 stringcidade="Cidade:Campinas";
-
+ 
 #Imprimir os dados das string
 puts stringnome;
 puts stringidade;
