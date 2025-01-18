@@ -1,1 +1,25 @@
+/*Image element to page*/
 
+*{
+    background-image: url('https://th.bing.com/th/id/OIP.efATY6p5-5aINwEzOqYKFwAAAA?rs=1&pid=ImgDetMain');
+}
+
+/*Element about button the page*/
+
+.Title{
+
+color:brown;
+display: flex;
+justify-content: center;
+align-items: center;
+padding:20px,20px;
+border: 2px solid #561616;
+border-radius: 15px;
+color:white;
+text-decoration: none;
+font-size:60px;
+position:absolute;
+top:50%;
+left:50%;
+
+}
