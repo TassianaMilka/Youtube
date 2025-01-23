@@ -7,7 +7,7 @@ int main()
    //Declaração
     int num=3;
     
-  
+   
     //Validação maior o menor
     if(num>=7){
         
