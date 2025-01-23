@@ -19,9 +19,9 @@ public class Main{//Nome classe
 	   
 	    //Imprimir a mensagem e o resultado
 	    
-		System.out.println("\n"+"O resultado da Divisão="+num);
+	    System.out.println("\n"+"O resultado da Divisão="+num);
 		
-		//System.out.println(num);
+	    //System.out.println(num);
 		
 	}
 }
