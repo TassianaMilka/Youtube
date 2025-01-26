@@ -1,0 +1,22 @@
+/*Elements Page color*/
+
+*{
+    background-color: #f5deb3;
+}
+
+/*Elements the footer*/
+
+.One{
+
+    padding:40px;
+    bottom: 0%;
+    left:0;
+    position:fixed;
+    width:100%;
+    text-align:center;
+    background-color: #000000;
+    color:#ff5a07;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+
+}
