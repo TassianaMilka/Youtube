@@ -1,0 +1,9 @@
+
+   #if,elsif and else
+   #segunda até sexta
+   #Domingo
+   #Sábado
+   #Hoje é dia de trabalhar
+   #Hoje é dia de não trabalhar
+   #Não encontrado no sistema
+   #Organização com seus projetos para facilitar o entendimento
