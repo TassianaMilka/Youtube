@@ -31,6 +31,6 @@
    
    #Exer
   
-  #Faça um código destinado para uma estrutura de codição(validação) que possa saber se o resultado da divisão com 
+  #Faça um código destinado para uma estrutura de condição(validação) que possa saber se o resultado da divisão com 
   #subtração é maior que 10,menor ou igual e finaliza com uma mensagem.
 
