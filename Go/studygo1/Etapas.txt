@@ -1,0 +1,6 @@
+
+1-Quando criada e para que é utilizada;
+
+2-O começo;
+
+3-Imprimir uma frase e como declarar uma variável.
