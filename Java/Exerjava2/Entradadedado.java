@@ -38,5 +38,5 @@ public class Main {
         System.out.println("O valor informado pelo usuário é="+valor);*/
 
 
-   //Realiza um código destinado para saber a quantidade exata que um cliente contém na sua conta do banco.Lembrando que possuí R$200,00 e adicionou
+   //Realiza um código destinado para saber a quantidade exata que um cliente contém na sua conta do banco.Lembrando que possuí R$200,00,adicionou
    //R$4000 e retirou R$100,00.Qual é a quantidade final?
