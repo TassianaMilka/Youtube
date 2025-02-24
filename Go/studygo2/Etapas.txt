@@ -1,0 +1,5 @@
+
+1-Outra forma de realizar o código;
+
+2-Código do tipo float.
+
