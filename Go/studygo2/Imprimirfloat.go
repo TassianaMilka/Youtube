@@ -1,5 +1,5 @@
 
-package main //Ponto de entrada 
+package main //Ponto de entrada  
 
 import "fmt" //format(formatação para imprimir o println)
 
