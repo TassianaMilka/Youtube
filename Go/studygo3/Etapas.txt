@@ -1,0 +1,4 @@
+
+1-Realizar o código diferente;
+
+2-String e char.
