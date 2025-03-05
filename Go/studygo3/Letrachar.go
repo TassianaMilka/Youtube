@@ -6,7 +6,7 @@ import "fmt" //format(formatação para imprimir o println)
 
 func main() { //Função prinicipal do programa
 
-    //Declaração de variável
+    //Declaração de variável 
 
     letra:="T";
     
