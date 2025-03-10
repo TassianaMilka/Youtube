@@ -1,0 +1,26 @@
+
+/*Color page about text*/
+
+*{
+
+  background-color: #9fa0a0;
+
+}
+
+/*Elements about text*/
+
+.text-about{
+
+  margin-top: 0%;
+  display: flex;
+  padding: 20px;
+  flex-wrap: wrap;
+  gap:10px;
+  background-image: url('https://th.bing.com/th/id/R.b4ed803800ebbb2a3cce52fbf27586f7?rik=LBv3DF67vTZQIw&pid=ImgRaw&r=0');
+  background-color: #ffffff;
+  margin:100px;
+  font-size: 25px;
+  border-radius:12px;
+  color:#000000;
+
+}
