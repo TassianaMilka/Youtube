@@ -1,0 +1,4 @@
+
+1-Realizar o código diferente;
+
+2-Criar um código que contém int,float e string(Desafio).
