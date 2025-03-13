@@ -7,7 +7,7 @@
  
    #Condição(validação) com and(e)
 
-   if idade > 17 and  idade >=18
+   if idade > 17 and  idade >=18 
 
       #Imprimir uma mensagem 
        
