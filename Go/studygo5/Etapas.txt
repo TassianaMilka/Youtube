@@ -1,0 +1,17 @@
+
+1-Aprender como realizar código na linguagem de programação go sobre if and else.
+
+
+//
+
+
+18 
+
+   Hoje é o dia da consulta por voltas das 16:00!
+
+19 
+ 
+  Hoje não é dia da consulta!
+  
+
+  Não encontrado o dia da consulta no sistema!
