@@ -1,0 +1,1 @@
+Código sobre if and else com string.
