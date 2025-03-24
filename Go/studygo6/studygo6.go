@@ -4,7 +4,7 @@ import "fmt" //format(formatação para imprimir o println)
  
 func main() { //Função prinicipal do programa 
 
-     //Declaração da variável
+     //Declaração da variável 
 
        sigla := "NORC";
 
