@@ -17,3 +17,8 @@ func main() { //Função prinicipal do programa
 
      //Imprimir a mensagem no console(print)
      fmt.Println("Obteve um erro no sistema!");
+
+          
+
+         }
+     }
