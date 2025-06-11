@@ -5,7 +5,7 @@ import "fmt" // Importando o pacote fmt para impressão
 
 
 func main() {  // Função principal do programa
-    
+     
     //Array de inteiros com tamanho 10  
     var arr [10]int 
     
