@@ -6,7 +6,7 @@ func main() { //Função prinicipal do programa
 
      //Declaração da variável 
 
-       sigla := "B";
+       sigla := "B"; 
 
      //Estrutura de condição(validação) com(ou ||)
 
