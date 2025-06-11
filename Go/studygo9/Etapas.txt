@@ -1,0 +1,6 @@
+
+1.Loop;
+
+2.Argumentação sobre alguns pontos da linguagem de programação;
+
+3.Vetor simples.
