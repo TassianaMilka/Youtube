@@ -9,7 +9,7 @@ func main() { //Função prinicipal do programa
        sigla := "B";
     
        var valor float64=300;
-
+ 
      //Estrutura de condição(validação) com(ou ||)
 
      if sigla=="A" || sigla=="B"{
