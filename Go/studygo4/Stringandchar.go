@@ -1,5 +1,5 @@
 
-func main() { //Função prinicipal do programa
+func main() { //Função principal do programa
 
     //Declaração de variáveis
 
