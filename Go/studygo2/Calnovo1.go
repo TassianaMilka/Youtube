@@ -12,6 +12,7 @@ func main() { //Função principal do programa
    
     //Imprimir a mensagem no console(print) e o resultado
     //do cálculo
+
     
     fmt.Println("O resultado é=",cal);
 
