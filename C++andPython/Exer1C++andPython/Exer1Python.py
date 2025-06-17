@@ -7,4 +7,4 @@ num=10;
 
     #Imprimir a mensagem do número 
     
-print('O número encontrado:',num);
+print('O número encontrado:',num); 
