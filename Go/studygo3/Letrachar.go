@@ -4,7 +4,7 @@ package main //Ponto de entrada
 import "fmt" //format(formatação para imprimir o println)
 
 
-func main() { //Função prinicipal do programa
+func main() { //Função principal do programa
 
     //Declaração de variável 
 
