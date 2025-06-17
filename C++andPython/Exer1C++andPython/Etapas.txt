@@ -1,0 +1,5 @@
+
+
+1.A funcionalidade C++ para Python(traduzir de uma linguagem para outra);
+
+2.Biblioteca,declarar,imprimir e sinais de ajuda.
