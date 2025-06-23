@@ -9,7 +9,7 @@
    if nomeCidade != "CidadeP" or  nomeCidade =="CidadeS"
 
       #Imprimir uma mensagem 
-       
+        
       puts"O nome da cidade foi encontrado!";
 
       
