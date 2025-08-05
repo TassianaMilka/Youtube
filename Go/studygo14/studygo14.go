@@ -12,7 +12,7 @@ func main() {  // Função principal do programa
     //Declaração de vetor/Array
     var nome_cidade =[2]string {"Campinas","São Paulo"};
 
-    vetor1 := [5]int{20, 40, 50, 70, 90};
+    vetor1 := [5]int{20, 40, 50, 70, 90}; 
     vetor2 := [5]int{20, 40, 60, 80, 90};
     var resultado [1]int;
     //Declaração e cálculo
