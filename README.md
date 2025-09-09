@@ -24,3 +24,10 @@ Agora Milka Analista irei retirar do ar os vídeos que era mais para descotrair 
 
 Sou grata e cada evolução que aprendo na minha vida é uma experiência.....
 
+
+Lembrando irei continuar meus projetos  das linguagens de programação que eu descrevia no canal todas elas eu estudo em outros repósitorios....
+
+
+Adeus valeu! 
+
+:-)
